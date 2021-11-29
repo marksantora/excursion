@@ -3,6 +3,10 @@ body {
     font-family: Verdana;
     background-color: black;
 }
+p {
+    font-size: 21px;
+    color: gray;
+}
 
 h1 {
     font-weight: normal;
@@ -16,13 +20,11 @@ h2 {
     color: white;
 }
 
-p {
-    font-size: 21px;
-    color: gray;
-}
-
 a {
     color: aquamarine;
     font-size: 16px;
 }
 
+footer {
+    text-align: right;
+}
